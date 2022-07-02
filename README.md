@@ -1,3 +1,5 @@
+![Visitor Count](https : //profile-counter.glitch.me/MTahaSarikaya/count.svg)
+
 Hi, I'm a 18 years old guy who is new into coding
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MTahaSarikaya&show_icons=true&theme=gradient) 
