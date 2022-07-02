@@ -1,4 +1,4 @@
-![Visitor Count](https : //profile-counter.glitch.me/MTahaSarikaya/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/MTahaSarikaya/count.svg)
 
 Hi, I'm a 18 years old guy who is new into coding
 
