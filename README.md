@@ -13,7 +13,6 @@ Languages I am learning
 
 Contact Me
 
-
-![image](https://user-images.githubusercontent.com/108299635/176788163-694a50f9-dbd0-4840-bd37-a53297010d7c.png)
-
-mtaha_1907
+  <a href="https://instagram.com/yorumtutmuskanks?igshid=NDBlY2NjN2I=">Instagram</a>
+  <br>
+  <a href="https://www.snapchat.com/add/m_tahaaaaa?share_id=RTVFODI2QkUtOUNENy00OTM4LTkyOEQtRDdCNTM0M0Q4NTdD&locale=en_TR">Snapchat</a>
