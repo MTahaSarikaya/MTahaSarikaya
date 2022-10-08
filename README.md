@@ -1,4 +1,4 @@
-Hi, I'm a 18 years old guy who is new into coding
+Taha, 18 years old, interested in programming, mobile application & web development and UX Design ( especially Research).
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MTahaSarikaya&show_icons=true&theme=gradient) 
 
