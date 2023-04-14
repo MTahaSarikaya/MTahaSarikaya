@@ -1,4 +1,4 @@
-Taha, 18 years old, interested in programming, mobile application & web development and UX Design ( especially Research).
+Taha, 18 years old, interested in programming, especially in Python and artifficial inteligence.
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MTahaSarikaya&show_icons=true&theme=gradient) 
 
