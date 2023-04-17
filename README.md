@@ -8,4 +8,4 @@ I'm always open to learning new things, gaining different perspectives, and deve
 
 Contact Me
 
-  <a href="[https://instagram.com/mtaha_1907?igshid=YmMyMTA2M2Y=]">Instagram</a>
+  <a href="(https://instagram.com/mtaha_1907?igshid=YmMyMTA2M2Y=)">Instagram</a>
