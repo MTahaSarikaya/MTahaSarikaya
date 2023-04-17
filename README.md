@@ -1,18 +1,11 @@
-Taha, 18 years old, interested in programming, especially in Python and artifficial inteligence.
+Hello! My name is Taha and I'm 19 years old. I'm interested in the world of programming and currently, I have knowledge of HTML, CSS, Python, and JavaScript at a certain level.
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=MTahaSarikaya&show_icons=true&theme=gradient) 
+To improve myself, I try different projects and learn many new things within them. By doing this, I aim to increase my knowledge and experience day by day to develop myself. The world of software is constantly changing and advancing, and I will continue to learn by keeping up with this change.
 
-Languages I am learning 
+If you have any feedback, you can contact me through my Instagram account. Your feedback will be very valuable to me and will help me to improve myself even more.
 
-![image](https://user-images.githubusercontent.com/108299635/176785669-f01ad223-2602-4d16-9f20-83687fff3eae.png)
-![image](https://user-images.githubusercontent.com/108299635/176785694-6ce362f8-5618-4f78-a6b5-81822759b633.png)
-![image](https://user-images.githubusercontent.com/108299635/176785713-6b348e91-5724-4521-8d61-745bda1067dc.png)
-
-
-
+I'm always open to learning new things, gaining different perspectives, and developing myself. Thank you!
 
 Contact Me
 
-  <a href="https://instagram.com/yorumtutmuskanks?igshid=NDBlY2NjN2I=">Instagram</a>
-  <br>
-  <a href="https://www.snapchat.com/add/m_tahaaaaa?share_id=RTVFODI2QkUtOUNENy00OTM4LTkyOEQtRDdCNTM0M0Q4NTdD&locale=en_TR">Snapchat</a>
+  <a href="[https://instagram.com/mtaha_1907?igshid=YmMyMTA2M2Y=]">Instagram</a>
