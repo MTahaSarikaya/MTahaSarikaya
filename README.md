@@ -4,6 +4,3 @@ To improve myself, I try different projects and learn many new things within the
 
 I'm always open to learning new things, gaining different perspectives, and developing myself. Thank you!
 
-Contact Me
-
-  <a href="(https://instagram.com/mtaha_1907?igshid=YmMyMTA2M2Y=)">Instagram</a>
